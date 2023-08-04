@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SER</title>
+    <link rel="stylesheet" href="../static/styles/upload.css">
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+</head>
+<body>
+    <div class="logo">
+        <a href="http://127.0.0.1:5000/">
+            <img src="../static/styles/SER-logos_white.png">
+        </a>
+    </div>
+    <div class="glow">
+        <h1>
+            Select a file:
+        </h1>
+        <form method="POST" enctype="multipart/form-data">
+            <input type="file" name="file" id="geeks"><br><br>
+            <input type="submit">
+        </form>
+        <h2>Predicted Emotion:</h2>
+        <p>{{ transcript }}</p>
+    </div>
+    <h4 id="selected-file"></h4>
+
+<!--    <script>-->
+<!--        $(document).ready(function() {-->
+<!--            $('input[type="file"]').change(function(e) {-->
+<!--                var geekss = e.target.files[0].name;-->
+<!--                $("#selected-file").text(geekss + ' is the selected file.');-->
+<!--            });-->
+<!--        });-->
+<!--    </script>-->
+</body>
+</html>
