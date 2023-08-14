@@ -13,7 +13,6 @@
 - [Results](#results)
 - [Future Work](#future-work)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## About the Project
