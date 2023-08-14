@@ -1,6 +1,6 @@
 # Speech Emotion Recognition using RAVDESS Dataset
 
-![Project Image](https://github.com/shivam-1701/Speech-Emotion-Recognition/assets/129766853/f8c41351-fee7-4901-9c2c-8840d9fc3339)
+![Screenshot 2023-08-14 124335](https://github.com/shivam-1701/Speech-Emotion-Recognition/assets/129766853/22c7f680-6f5b-4eb5-a3be-97c7031533c3)
 
 ## Table of Contents
 
