@@ -29,7 +29,7 @@ The [RAVDESS dataset](https://zenodo.org/record/1188976#.YK6-IK_0lQI) (Ryerson A
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/shivam-1701/Speech-Emotion-Recognition.git
 2. cd your-project
 3. pip install -r requirements.txt
 4. python app.py
